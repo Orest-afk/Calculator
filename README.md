@@ -1,2 +1,2 @@
 # Calculator
-Just starting my way
+Opyat nihua ne delau
